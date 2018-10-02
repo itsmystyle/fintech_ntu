@@ -1,1 +1,3 @@
-# fintech_ntu
+# Introduction to fintech
+
+NTU CSIE FINTECH
